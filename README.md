@@ -5,10 +5,10 @@ Image Compression Project
 Проект реализует метод сжатия изображений на основе линейных преобразований. Алгоритм преобразует черно-белые изображения в сжатый бинарный формат с последующей компрессией gzip, а также предоставляет возможность восстановления изображения.
 
 # Сжатие изображения
-python script.py input.jpg 0.5 output_name
+python main.py input.jpg 0.5 output_name
 
 # Восстановление изображения
-python script.py compressed.rdc output.jpg
+python main.py compressed.rdc output.jpg
 
 # Почему используется QR-разложение?
 
