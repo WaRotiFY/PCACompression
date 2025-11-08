@@ -1,0 +1,9 @@
+.idea
+__pychache__
+img.jpg
+*.pyc
+*.rdc
+*.jpg
+*.zip
+.env
+venv/
